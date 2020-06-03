@@ -4,6 +4,7 @@ A Node.js API server using the Express framework, Sequelize, and PostgreSQL data
 ### Steps to run the server:- 
 1. ```git clone https://github.com/ayushns9/API```
 2. ```cd API```
+4. run ```npm i```
 3. run ```npm run start```
 
 This will start the server on localhost on port 5000 or on a different port(if running on a virtual machine) which will be printed on the console.
